@@ -1,2 +1,3 @@
-[Insiders](https://hastebin.skyra.pw/rirefujuha.md)\n
+[Insiders](https://hastebin.skyra.pw/rirefujuha.md)
+<br>
 [Public](https://fondra.club/unknown)
