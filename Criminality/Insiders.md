@@ -253,7 +253,7 @@
   2. Lockpick - Uses the lockpick on the safe.
   3. Both - Uses both listed above depending on what tool is equipped.
 
-# Misc Section
+### Misc Section
 
 - **Chat Logs** [Toggle]
 - **Custom Hit Marker** [Toggle]
